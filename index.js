@@ -25,6 +25,7 @@ window.onload=function () {
   let kaiJi2=document.querySelector("#head #kaiJi2")
   let xian=document.querySelector("#head #xian")
   let dianLi=document.querySelectorAll("#head #dian>li")
+  const aa=12
   let num=0
   let timer
   let timer1

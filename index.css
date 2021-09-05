@@ -98,8 +98,8 @@ a{text-decoration: none}
 #wai-content #work23 .photo:nth-of-type(11)>.photo1{background: url(img/bks.png) no-repeat;}
 #wai-content #work23 .photo:nth-of-type(12)>.photo1{background: url(img/bks.png) no-repeat;}
 
-#wai-content #work23 .font{position: absolute;top:0;background:#009ee0;transition:1s transform;);
-                            width: 120px;height: 132px;backface-visibility: hidden;transform: rotateY(180deg)}
+#wai-content #work23 .font{position: absolute;top:0;background:#009ee0;transition:1s transform;
+                            width:120px;height:132px;backface-visibility:hidden;transform:rotateY(180deg)}
 #wai-content #work23 .photo:hover .font{transform: rotateY(360deg);}
 #wai-content #work23 .photo:hover .photo1{transform: rotateY(180deg)}
 
